@@ -384,7 +384,7 @@ The dashboard includes:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Zahra-ziaee/sales-analytics-dashboard.git
+git clone https://github.com/anithagummuluri12345/sales-analytics-dashboard
 cd sales-analytics-dashboard
 ```
 
@@ -521,8 +521,6 @@ Planned next steps:
 
 ---
 
-## Author
 
-Zahra Ziaee
 
 Focus: Sales Analytics, Business Intelligence, SQL, Dashboarding, and Data-Driven Decision Making
